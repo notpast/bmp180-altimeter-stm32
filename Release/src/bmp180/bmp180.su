@@ -1,0 +1,3 @@
+bmp180.c:96:9:BMP180_Init	16	static
+bmp180.c:297:9:BMP180_Read	32	static
+bmp180.c:324:10:Get_Error_Message	8	static

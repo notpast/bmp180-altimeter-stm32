@@ -1,0 +1,7 @@
+ssd1306.c:8:13:delay_ms.constprop	8	static
+ssd1306.c:27:9:SSD1306_Send_Command	16	static
+ssd1306.c:95:9:SSD1306_Flush	24	static
+ssd1306.c:171:6:SSD1306_Power	0	static
+ssd1306.c:184:6:SSD1306_Clear	0	static
+ssd1306.c:197:9:SSD1306_Init	8	static
+ssd1306.c:248:6:SSD1306_Set_Pixel	8	static

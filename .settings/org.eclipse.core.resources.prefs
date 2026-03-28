@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/I2C/i2c.c=UTF-8
+encoding//src/bmp180/bmp180.c=UTF-8
+encoding//src/bmp180/bmp180.h=UTF-8
