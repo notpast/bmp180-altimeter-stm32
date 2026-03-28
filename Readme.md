@@ -45,4 +45,15 @@ The firmware is developed in **C** using **Atollic TrueSTUDIO** as the IDE.
 
 1. **Sensor Reading**: The BMP180 sensor provides uncompensated pressure and temperature values
 2. **Data Processing**: The microcontroller reads raw data and applies compensation formulas
-3. **Altitude Calculation**: Altitude is calculated using the barometric formula:
+3. **Altitude Calculation**: Altitude is calculated using the lookup table
+
+
+## Getting Started
+
+### Prerequisites
+
+- Atollic TrueSTUDIO (or any STM32 compatible IDE)
+- ST-Link programmer or USB to UART converter for flashing
+- STM32F103C8T6 (Blue Pill) board
+- BMP180 sensor module
+- SSD1306 OLED display (I2C version)
