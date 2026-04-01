@@ -57,3 +57,9 @@ The firmware is developed in **C** using **Atollic TrueSTUDIO** as the IDE.
 - STM32F103C8T6 (Blue Pill) board
 - BMP180 sensor module
 - SSD1306 OLED display (I2C version)
+
+
+
+[Watch the video](https://www.youtube.com/watch?v=wYZSTaH1zao)
+
+
