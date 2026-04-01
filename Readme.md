@@ -59,6 +59,7 @@ The firmware is developed in **C** using **Atollic TrueSTUDIO** as the IDE.
 - SSD1306 OLED display (I2C version)
 
 
+![Alt text](prj_image.png)
 
 [Watch the video](https://www.youtube.com/watch?v=wYZSTaH1zao)
 
